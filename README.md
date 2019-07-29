@@ -4,6 +4,33 @@
 
 > 接下来准备开始基于Gradle 3.x 重新编译自定义Lint插件，写新的Lint自定义规则。 敬请期待！ 3.x系列已经写完了，但是考虑到大部分的规则都和公司项目强关联，所以暂时不准备公开。
 
+# 3.x系列变化
++ 实现的项目工程
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v1.png)
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v2.png)
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v3.png)
+
+rules项目和aar项目关联的方式改变
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v4.png)
+
+Lint插件定义也有所改变
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v5.png)
+
+各种规则的实现方式都改变，基类改变，改用kotlin来实现
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v6.png)
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v7.png)
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v8.png)
+
+![](https://github.com/ouyangpeng/XTCLint/blob/master/Files/v9.png)
+
 
 
 
