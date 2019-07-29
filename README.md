@@ -2,7 +2,11 @@
 
 > 目前这份代码是基于Gradle 2.x 编写的，代码分支为 https://github.com/ouyangpeng/XTCLint/tree/feature/LintBaseOnGradel2.x
 
-> 接下来准备开始基于Gradle 3.x 重新编译自定义Lint插件，写新的Lint自定义规则。 敬请期待！
+> 接下来准备开始基于Gradle 3.x 重新编译自定义Lint插件，写新的Lint自定义规则。 敬请期待！ 3.x系列已经写完了，但是考虑到大部分的规则都和公司项目强关联，所以暂时不准备公开。
+
+
+
+
 
 # 背景
 
